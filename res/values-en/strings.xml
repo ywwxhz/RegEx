@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegEx</string>
+    <string name="Regx_express">RegEx</string>
+    <string name="Text_source">Text</string>
+    <string name="No_Match">No find  T^T </string>
+    <string name="Matchs">Find %d</string>
+    <string name="Next_Match">Next Match </string>
+    <string name="Error">Error -_-!</string>
+    <string name="OK">OK</string>
+    <string name="group">Group: </string>
+    <string name="start">Start: </string>
+    <string name="end">End: </string>
+    <string name="about">about</string>
+    <string name="reference">Reference</string>
+    <string name="about_message">This Software was developed by ywwxhz. \n contact me  \n Email: ywwxhz@gmail.com</string>
+    <string name="title_activity_reference">Reference</string>
+    <string name="exit">Exit</string>
+    <string name="all_match">Show matchs</string>
+    <string name="all_title">Find %d</string>
+    <string name="empty">Pleace input the text</string>
+</resources>

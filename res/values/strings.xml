@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">正则匹配</string>
+    <string name="Regx_express">正则表达式</string>
+    <string name="Text_source">待匹配文本</string>
+    <string name="No_Match">没有找到匹配</string>
+    <string name="Matchs">找到%d个匹配</string>
+    <string name="Next_Match">下一个匹配</string>
+    <string name="Error">错误</string>
+    <string name="OK">确定</string>
+    <string name="group">组: </string>
+    <string name="start">起始位置: </string>
+    <string name="end">终止位置: </string>
+    <string name="about">关于</string>
+    <string name="reference">参考</string>
+    <string name="about_message">本软件由ywwxhz开发\n用于学习正则表达式的使用。\n联系方式\n QQ：350483289\n Email: ywwxhz@gmail.com</string>
+    <string name="title_activity_reference">正则参考</string>
+    <string name="exit">退出</string>
+    <string name="all_match">所有匹配</string>
+    <string name="all_title">共有%d个匹配</string>
+    <string name="empty">请输入文本内容</string>
+
+</resources>
