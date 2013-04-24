@@ -70,7 +70,6 @@ public class Main extends Activity implements OnClickListener {
 								Toast.LENGTH_LONG).show();
 						Next.setEnabled(false);
 					}
-					System.gc();
 				} else {
 					int i = 0;
 					while (matcher.find()) {

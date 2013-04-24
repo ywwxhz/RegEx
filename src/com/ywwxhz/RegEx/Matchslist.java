@@ -15,7 +15,6 @@ import android.app.ListActivity;
 
 public class Matchslist extends ListActivity {
 
-	private static final String TAG = "MatchList"; 
 	private int to[] = new int[] { R.id.id, R.id.start, R.id.end, R.id.value };
 	private String from[] = new String[] { "id", "start", "end", "value" };
 	private Matcher matcher;
